@@ -70,6 +70,6 @@ Registrándose en el 2018 una significativa reducción.
 ---
 **Dashboard final:** 
 
-![](https://i.imgur.com/bhN0Wjh.png)
+![](https://i.imgur.com/YoBC01D.png)
 
 Para interactuar con el dashboard y su data de forma dinámica ir a: [andrea-tableau-public](https://public.tableau.com/app/profile/andrea/viz/london-accidents/accidents-london)
