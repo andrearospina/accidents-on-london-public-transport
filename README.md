@@ -8,7 +8,7 @@ Análisis de la accidentalidad presentada en el transporte público de la ciudad
 
 1.	La cantidad de accidentes presentados a lo largo de los años. 
 2.	Género más afectado y grupo etario. 
-3.	El tipo de accidente (como por ejemplo si fueron lesiones a bordo, lesiones personales o incidentes por colisión). 
+3.	El tipo de accidente (por ejemplo, si fueron lesiones a bordo, lesiones personales o incidentes por colisión). 
 4.	 El tipo de usuario o víctima. 
 5.	Los grupos operarios con mayor número de accidentados. 
 6.	Los municipios con más accidentalidad.
