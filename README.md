@@ -61,8 +61,8 @@ Registrándose en el 2018 una significativa reducción.
 
 **Recomendaciones**
 
--	Hacer un estudio que permita dictaminar porque el género femenino es el más afectado por accidentes en el transporte público y establecer un plan de acción que permita reducir dicho índice. 
--	Delimitar áreas, establecer señalizaciones e instalar elementos como cintas antideslizantes en vehículos y rutas, con el fin de reducir los tropiezos/accidentalidad general.
+-	Hacer un estudio que permita dictaminar porque el género femenino es el más afectado por accidentes en el transporte público, y establecer un plan de acción que permita reducir dicho índice. 
+-	Delimitar áreas, establecer señalizaciones e instalar elementos (como cintas antideslizantes) en vehículos y rutas, con el fin de reducir los tropiezos/accidentalidad general.
 
 -	Auditar los vehículos de las empresas Arriva London, Metroline, Go-Ahead y Stagecoach con el objetivo de encontrar falencias y áreas de oportunidad que permitan mejorar el servicio y con ello, reducir su alta accidentalidad. 
 
